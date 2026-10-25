@@ -1,0 +1,5 @@
+data/bnc_tagged.txt
+output/
+results/
+__pycache__/
+.DS_Store
